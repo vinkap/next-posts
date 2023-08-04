@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "React",
+      "body": "React is a JavaScript library for building user interfaces that is declarative, efficient, and flexible."
+    },
+    {
+      "id": 2,
+      "title": "Next",
+      "body": "Next is a React framework for building server-rendered and static web applications."
+    },
+    {
+      "id": 3,
+      "title": "Remix",
+      "body": "Remix is a full-stack framework for building web applications that combines the best of React, server-side rendering, and static site generation."
+    },
+    {
+      "title": "test",
+      "body": "test",
+      "id": 4
+    },
+    {
+      "title": "test",
+      "body": "test body",
+      "id": 5
+    },
+    {
+      "title": "test",
+      "body": "test body",
+      "id": 6
+    },
+    {
+      "title": "test",
+      "body": "test body",
+      "id": 7
+    },
+    {
+      "title": "test",
+      "body": "test body",
+      "id": 8
+    },
+    {
+      "title": "test",
+      "body": "test body",
+      "id": 9
+    },
+    {
+      "title": "test",
+      "body": "test body",
+      "id": 10
+    },
+    {
+      "title": "test",
+      "body": "test body",
+      "id": 11
+    }
+  ]
+}
