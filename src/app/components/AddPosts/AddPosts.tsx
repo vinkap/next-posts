@@ -34,7 +34,7 @@ export default function AddPosts() {
                     type="text"
                     name="body"
                     onChange={(e) => setNewPost((prev) => ({ ...prev, body: e.target.value }))} />
-                <button type="submit">Submit</button>
+                <button type="submit">Post</button>
             </form>
         </>
     )
